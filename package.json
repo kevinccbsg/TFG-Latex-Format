@@ -1,0 +1,22 @@
+{
+  "name": "latextemplatebasic",
+  "version": "1.0.0",
+  "description": "Texting Latex sintax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "latext",
+    "tfg"
+  ],
+  "author": "Kevin Julian Martinez Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-latex": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-shell": "^0.5.2"
+  }
+}
